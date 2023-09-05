@@ -37,6 +37,7 @@ make
 
 # Screenshots
 ![Simulation Paused](/screenshots/sim0.PNG "Paused Simulation")
+![Simulation Started](/screenshots/test.gif "Started Simulation")
 
 
 ## Potential Future Improvements
