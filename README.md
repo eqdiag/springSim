@@ -36,6 +36,7 @@ make
 
 
 # Screenshots
+![Simulation Paused](/screenshots/sim0.PNG "Paused Simulation")
 
 
 ## Potential Future Improvements
